@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"github.com/calvincabral/calculet/internal/fetcher"
-	"github.com/calvincabral/calculet/internal/instruction"
-	"github.com/calvincabral/calculet/internal/filter"
+	"github.com/calvincabral/calculet/fetcher"
+	"github.com/calvincabral/calculet/instruction"
+	"github.com/calvincabral/calculet/filter"
 )
 
 func main() {
